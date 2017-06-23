@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "764172523562",
+    "firebase_url": "https://android-short-course-afternoon.firebaseio.com",
+    "project_id": "android-short-course-afternoon",
+    "storage_bucket": "android-short-course-afternoon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764172523562:android:1727baaf2470a2dd",
+        "android_client_info": {
+          "package_name": "com.kshrd.fcmlesson"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764172523562-0eft0gir3a26se683ciadc0igluvo5i7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kshrd.fcmlesson",
+            "certificate_hash": "bd8be007dcd8973b1cc203ba19a8fb6494cf7953"
+          }
+        },
+        {
+          "client_id": "764172523562-4sbjcgbg20c2t98udjt79qcplr159pj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdLblMTrojBDb22x1map9mPEodCV-8rCU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764172523562-4sbjcgbg20c2t98udjt79qcplr159pj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
